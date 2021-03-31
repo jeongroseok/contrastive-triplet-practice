@@ -12,3 +12,6 @@ triplet loss를 일반화한것
 - 풀링레이어 유무
 - 짧은 백본
   대조 손실은 낮은 러닝레이트에서만 학습 가능
+
+simple(gray): mnist, omniglot, faces
+resnet18(color): prid
